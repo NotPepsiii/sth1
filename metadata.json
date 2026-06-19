@@ -1,0 +1,6 @@
+{
+  "name": "Movie Streaming Hub",
+  "description": "A futuristic Netflix-style movie search and embedded streaming platform powered by TMDB and custom embedded players.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
